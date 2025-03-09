@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmaembr
-- 👀 I’m Java programming enthousiaste
+- 👀 I’m Java programming enthousiast
 - 📫 You can reach me through my Portfolio's Contact Form  https://moubarrizasmae.vercel.app/ContactMe 
 
 <!---
