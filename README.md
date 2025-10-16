@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I’m Asmae Moubarriz</h1>
+<h1 align="center">👋 Hi there, I’m <span style="color: #6C63FF;">Asmae Moubarriz</span></h1>
 
 <h3 align="center">🎯 Computer Engineer | Full Stack Developer | Data Enthusiast</h3>
 
@@ -76,15 +76,18 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 
 ### 📊 GitHub Overview  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=asmaembr&theme=tokyonight&hide_border=false&card_width=500" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asmaembr&theme=tokyonight&hide_border=false)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaembr&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaembr&theme=tokyonight" height="150" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaembr&layout=compact&theme=tokyonight&hide_border=false)
-
-![Profile Views](https://komarev.com/ghpvc/?username=asmaembr&style=flat&color=blueviolet)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmaembr&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
