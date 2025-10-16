@@ -12,29 +12,29 @@
 
 I'm a **State Engineer in Computer Science and Networks** from the **Moroccan School of Engineering Sciences (EMSI)**, specialized in **MIAGE** (Computer Methods Applied to Business Management).  
 
-📍 Based in **Rabat, Morocco** — but i am open to collaborate and relocate worldwide 🌍  
+📍 Based in **Rabat, Morocco** — but my curiosity travels worldwide 🌍  
 📫 Reach me at [asmae.moubr@gmail.com](mailto:asmae.moubr@gmail.com)
 
 ---
 
 ### 🧠 Skills & Technologies  
 
-#### 💻 Backend
-`JakartaEE` • `Spring` • `.NET` • `Django` • `Flutter`
+#### 💻 Backend  
+`JakartaEE` • `Spring` • `.NET` • `Django` • `Flutter`  
 
-#### 🎨 Frontend
-`TypeScript` • `Next.js` • `Angular` • `React`
+#### 🎨 Frontend  
+`TypeScript` • `Next.js` • `Angular` • `React`  
 
-#### ⚙️ DevOps
-`Docker` • `OCI` • `Terraform` • `Kubernetes`
+#### ⚙️ DevOps  
+`Docker` • `OCI` • `Terraform` • `Kubernetes`  
 
-#### 🧩 Databases
-`PostgreSQL` • `SQL Server` • `Oracle DB` • `MongoDB` • `Firebase`
+#### 🧩 Databases  
+`PostgreSQL` • `SQL Server` • `Oracle DB` • `MongoDB` • `Firebase`  
 
-#### 📊 Data & Analytics
-`Oracle Cloud Analytics` • `PL/SQL` • `T-SQL`
+#### 📊 Data & Analytics  
+`Oracle Cloud Analytics` • `PL/SQL` • `T-SQL`  
 
-#### 🧰 Tools & Methodologies
+#### 🧰 Tools & Methodologies  
 `Scrum` • `Jira` • `GitLab` • `Figma`
 
 ---
@@ -76,13 +76,14 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 
 ### 📊 GitHub Overview  
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=asmaembr&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaembr&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaembr&theme=tokyonight" height="150" />
+</p>
 
-<!-- Repo Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaembr&layout=compact&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=asmaembr&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmaembr&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
