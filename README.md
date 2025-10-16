@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I’m <span style="color:#4F46E5;">Asmae Moubarriz</span></h1>
+<h1 align="center">👋 Hi there, I’m <span style="color: #6C63FF;">Asmae Moubarriz</span></h1>
 
 <h3 align="center">🎯 Computer Engineer | Full Stack Developer | Data Enthusiast</h3>
 
@@ -45,7 +45,6 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 |-------------|-----------|----------|----------------|
 | **Oracle** | 10/2025 – Present | Junior Member of Technical Staff | Java, Python, PL/SQL, Oracle Cloud Analytics, Terraform |
 
-
 ---
 
 ### 🏅 Certificates  
@@ -78,22 +77,27 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 ### 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaembr&theme=tokyonight" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaembr&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.vercel.app?user=asmaembr&theme=tokyonight&hide_border=false&card_width=500" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asmaembr&theme=tokyonight&hide_border=false" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaembr&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaembr&theme=tokyonight" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmaembr&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views" />
+</p>
+
 ---
 
 ### 🔗 Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/asmae-moubarriz"><img src="https://img.shields.io/badge/LinkedIn-Asmae%20Moubarriz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://moubarrizasmae.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square&logo=vercel"></a>
-  <a href="https://github.com/asmaembr"><img src="https://img.shields.io/badge/GitHub-as­maembr-black?style=flat-square&logo=github"></a>
-  <a href="mailto:asmae.moubr@gmail.com"><img src="https://img.shields.io/badge/Email-as­mae.moubr%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/asmae-moubarriz"><img src="https://img.shields.io/badge/LinkedIn-Asmae%20Moubarriz-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://moubarrizasmae.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-moubarrizasmae.vercel.app-4CAF50?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/asmaembr"><img src="https://img.shields.io/badge/GitHub-asmaembr-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="mailto:asmae.moubr@gmail.com"><img src="https://img.shields.io/badge/Email-asmae.moubr%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
