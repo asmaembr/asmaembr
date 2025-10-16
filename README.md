@@ -77,7 +77,7 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 ### 📊 GitHub Overview  
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmaembr&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmaembr&theme=dark)
 
 <!-- Repo Stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaembr&layout=compact&theme=tokyonight)
