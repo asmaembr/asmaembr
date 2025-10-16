@@ -12,7 +12,7 @@
 
 I'm a **State Engineer in Computer Science and Networks** from the **Moroccan School of Engineering Sciences (EMSI)**, specialized in **MIAGE** (Computer Methods Applied to Business Management).  
 
-📍 Based in **Rabat, Morocco** — but my curiosity travels worldwide 🌍  
+📍 Based in **Rabat, Morocco** — but i am open to relocate worldwide 🌍  
 📫 Reach me at [asmae.moubr@gmail.com](mailto:asmae.moubr@gmail.com)
 
 ---
