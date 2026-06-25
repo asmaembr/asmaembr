@@ -20,7 +20,7 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 ### 🧠 Skills & Technologies  
 
 #### 💻 Backend  
-`JakartaEE` • `Spring` • `.NET` • `Django` • `Flutter`  
+`JakartaEE` • `Spring` • `.NET` • `Flask` • `Flutter`  
 
 #### 🎨 Frontend  
 `TypeScript` • `Next.js` • `Angular` • `React`  
@@ -43,7 +43,7 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 
 | 🏢 Company | 📆 Period | 💼 Role | 🧰 Technologies |
 |-------------|-----------|----------|----------------|
-| **Oracle** | 10/2025 – Present | Junior Member of Technical Staff | Java, Python, PL/SQL, Oracle Cloud Analytics, Terraform |
+| **Oracle** | 10/2025 – Present | Junior Member of Technical Staff | Java, Python, Oracle Cloud Analytics, Kubernetes, Terraform|
 
 ---
 
@@ -51,7 +51,6 @@ I'm a **State Engineer in Computer Science and Networks** from the **Moroccan Sc
 
 🧾 **2025**  
 - Oracle Cloud Infrastructure Associate  
-- Harnessing Data using Data Warehouse  
 
 🧾 **2024**  
 - Scalable Java Microservices with Spring Boot & Cloud  
